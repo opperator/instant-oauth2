@@ -1,5 +1,5 @@
 # -*- encoding: utf-8 -*-
-require File.expand_path('../lib/instant-oauth2/version', __FILE__)
+require File.expand_path('../lib/instant_oauth2/version', __FILE__)
 
 Gem::Specification.new do |gem|
   gem.authors       = ["TODO: Write your name"]
